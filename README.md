@@ -5,7 +5,7 @@ A computer vision project for object detection, tracking, and motion analysis in
 
 ## Features
 
-- Real-time object detection using YOLO (Ultralytics)
+- Object detection using YOLO (Ultralytics)
 - Multi-object tracking (YOLO tracking)
 - RAFT optical flow (PyTorch)
 - Classical optical flow (Farneback method)
