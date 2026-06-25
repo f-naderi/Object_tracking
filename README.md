@@ -55,13 +55,13 @@ Motion Analysis
 
 ## Requirements
 
-· Python 3.10+
-· PyTorch
-. Ultralytics YOLO
-· OpenCV
-· Matplotlib
-· NumPy
-. Jupyter Notebook
+* Python 3.10+
+* PyTorch
+* Ultralytics YOLO
+* OpenCV
+* Matplotlib
+* NumPy
+* Jupyter Notebook
 
 
 ## References
