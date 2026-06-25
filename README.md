@@ -1,5 +1,5 @@
 ```markdown
-# Object Tracking & Optical Flow Analysis
+# Object Tracking and Optical Flow Analysis
 
 A computer vision project for object detection, tracking, and motion analysis in dashcam videos using YOLO, and Optical Flow (RAFT & OpenCV).
 
