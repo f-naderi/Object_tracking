@@ -67,9 +67,9 @@ Motion Analysis
 ## References
 
 - YOLO: Ultralytics 
-- RAFT: Teed & Deng (2020)
-- Optical Flow: Lucas-Kanade (1981)
-- Farneback Method: Gunnar Farneback (2003)
+- Teed, Z., & Deng, J. (2020, August). Raft: Recurrent all-pairs field transforms for optical flow. In European conference on computer vision (pp. 402-419). Cham: Springer International Publishing.
+- Lucas, B. D., & Kanade, T. (1981, August). An iterative image registration technique with an application to stereo vision. In IJCAI'81: 7th international joint conference on Artificial intelligence (Vol. 2, pp. 674-679).
+- Farnebäck, G. (2003, June). Two-frame motion estimation based on polynomial expansion. In Scandinavian conference on Image analysis (pp. 363-370). Berlin, Heidelberg: Springer Berlin Heidelberg.
 - Dashcam Input Video (YouTube). [Video Source](https://youtu.be/JHf2u7TqUEY?si=fth2Sa9uYWDMnqDC)
 
 ```
