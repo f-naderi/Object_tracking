@@ -66,7 +66,7 @@ Motion Analysis
 
 ## References
 
-- YOLO: Ultralytics 
+- Jocher, G., Chaurasia, A., & Qiu, J. (2023). Ultralytics yolo. Zenodo.
 - Teed, Z., & Deng, J. (2020, August). Raft: Recurrent all-pairs field transforms for optical flow. In European conference on computer vision (pp. 402-419). Cham: Springer International Publishing.
 - Lucas, B. D., & Kanade, T. (1981, August). An iterative image registration technique with an application to stereo vision. In IJCAI'81: 7th international joint conference on Artificial intelligence (Vol. 2, pp. 674-679).
 - Farnebäck, G. (2003, June). Two-frame motion estimation based on polynomial expansion. In Scandinavian conference on Image analysis (pp. 363-370). Berlin, Heidelberg: Springer Berlin Heidelberg.
