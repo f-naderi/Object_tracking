@@ -66,7 +66,7 @@ Motion Analysis
 
 ## References
 
-- YOLO: Ultralytics (2023)
+- YOLO: Ultralytics 
 - RAFT: Teed & Deng (2020)
 - Optical Flow: Lucas-Kanade (1981)
 - Farneback Method: Gunnar Farneback (2003)
